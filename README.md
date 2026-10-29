@@ -320,5 +320,16 @@ it is not a substitute for the book.
 
 ## License
 
-The skill's original content (SKILL.md, references, laws analysis, scripts) is released under the MIT license.
-Quoted material remains © Jon Yablonski and the respective publishers listed in each law's Further Reading.
+[MIT](LICENSE) © 2026 els6x.
+
+That covers the original work in this repository: `SKILL.md`, the reference files, the analysis in `laws/`
+(mechanism, numbers tables, Do/Don't rules, code patterns, audit questions), `design-contract.css`, and
+`ux_check.py`.
+
+It does **not** cover quoted material. Law names, one-line definitions, takeaways, origin text and Further Reading
+lists come from [lawsofux.com](https://lawsofux.com/) by Jon Yablonski (*Laws of UX*, O'Reilly, 2020) and remain the
+property of their authors and publishers. They are reproduced here with attribution so that every rule can be traced
+to its source. If you redistribute this skill, keep that attribution intact.
+
+Third-party links in each law's Further Reading point to work owned by others — Nielsen Norman Group, Interaction
+Design Foundation, Smashing Magazine, Wikipedia, and the original papers. Nothing here relicenses them.
